@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertsrenejoy7&label=Profile%20views&color=0e75b6&style=flat" alt="robertsrenejoy7" /> </p>
 
-- 🔭 I’m currently working as a **Data Analyst Intern @AtliQ Hardware**
 
 I'm an aspiring **Data Analyst** with a passion for turning data into actionable insights. My toolkit includes:
 
